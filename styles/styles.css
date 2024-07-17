@@ -1,0 +1,58 @@
+.body{
+    background-color: #f4f4f4;
+    
+}
+
+.congrat{
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 60vh;
+    width: 70vh;
+    margin-top: 0px;
+    margin: auto;
+    gap: 0px;  
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+  
+}
+.congrat-title{
+    margin:0
+}
+
+.congrat-subtitle{
+    color: black
+    font-weight: 1000px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+.imgtag {
+    margin-top: 2px;
+}
+
+.next-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.wish{
+  text-align:center;
+  font-weight: 1000px;
+}
+
+.btn-next{
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 160px;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
